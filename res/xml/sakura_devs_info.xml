@@ -58,6 +58,14 @@
             android:action="android.intent.action.VIEW"
             android:data="https://t.me/T3rr0r1st" />
         </Preference>        
+        <Preference
+            android:title="@string/dev_4"
+            android:summary="@string/dev4_description">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://t.me/SirRGB" />
+        </Preference>
+
 </PreferenceCategory>
 
 <PreferenceCategory
@@ -329,7 +337,7 @@
             android:action="android.intent.action.VIEW"
             android:data="https://t.me/a9ito" />
     </Preference>
-	
+
 </PreferenceCategory>
 
 </PreferenceScreen>
